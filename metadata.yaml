@@ -1,0 +1,28 @@
+_repo: The-History-of-Tammany-Hall-Second-Edition_53115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Myers, Gustavus
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '2070'
+    url: http://www.gutenberg.org/2009/agents/2070
+description: ''
+gutenberg_issued: '2016-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53115'
+  lccn: '17031564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Politics and government'
+- !lcsh 'Tammany Hall (Political organization)'
+- !lcc 'JK'
+- GITenberg
+title: 'The History of Tammany Hall
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/53115
